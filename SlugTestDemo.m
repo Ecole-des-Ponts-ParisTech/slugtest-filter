@@ -1,6 +1,6 @@
 
 % Load example sensor data.
-load('slugtest_example/DataExample.mat');
+load('DataExample.mat');
 
 % Instantiate slug detection filter.
 filter = SlugDerivativeFilter();
